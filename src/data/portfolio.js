@@ -5,7 +5,7 @@ export const profile = {
   location: 'TP.HCM',
   email: 'giocodeproject@gmail.com',
   phone: '********',
-  cvUrl: '',
+  cvUrl: '*******',
   github: 'https://github.com/KarlDragon',
   linkedin: 'https://linkedin.com/in/karldragon',
   leetcode: 'https://leetcode.com/u/winddragonn',
